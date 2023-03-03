@@ -1,0 +1,3 @@
+SEGA screen begins at scanline 82
+SEGA screen ends at scanline 140
+Total height is 58 pixels
